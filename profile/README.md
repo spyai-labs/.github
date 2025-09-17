@@ -5,7 +5,7 @@
 
 *Sydney-based projects | Data Engineering, Machine Learning, Deep Learning, MLOps, Generative AI*
 
-[Overview](#overview) | [Projects](#highlight-projects) | [Tech Stack](#technologies--tools) | [Contact](#contact--connect)
+[Overview](#-overview) | [Projects](#-highlight-projects) | [Tech Stack](#-technologies--tools) | [Contact](#-contact--connect)
 
 ---
 
@@ -33,7 +33,7 @@ Here are some of the stand-out repositories.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔧 Technologies & Tools
 
 Here are some tools & frameworks I work with regularly:
 
